@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Isyunke's github stats](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true)]
+![Isyunke's github stats](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula)
 <!--
 **Isyunke/Isyunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
