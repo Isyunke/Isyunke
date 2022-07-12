@@ -1,7 +1,11 @@
-### Hi there 👋
-![visitor counter](https://visitor-badge.glitch.me/badge?page_id=Isyunke.readme)
-![Isyunke's github stats](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula)
 
+<div class ="box" :style = "box-sizing : border-box ; width : 50%">
+
+![visitor counter](https://visitor-badge.glitch.me/badge?page_id=Isyunke.readme)
+</div>
+<div class ="box" :style = "box-sizing : border-box ; width : 50%">
+![Isyunke's github stats](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula)
+</div>
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
