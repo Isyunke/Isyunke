@@ -1,11 +1,11 @@
 
-<div class ="box" :style = "box-sizing : border-box ; width : 50%">
+<div class ="box" :style = "box-sizing : border-box">
 
 ![visitor counter](https://visitor-badge.glitch.me/badge?page_id=Isyunke.readme)
-</div>
-<div class ="box" :style = "box-sizing : border-box ; width : 50%">
-<img = url:https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula>
-</div>
+<br />
+
+![图片](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula)
+
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
