@@ -4,7 +4,7 @@
 ![visitor counter](https://visitor-badge.glitch.me/badge?page_id=Isyunke.readme)
 </div>
 <div class ="box" :style = "box-sizing : border-box ; width : 50%">
-![Isyunke's github stats](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula)
+<img = url:https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula>
 </div>
 
 # linux卡片
