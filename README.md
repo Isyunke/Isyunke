@@ -2,7 +2,7 @@
 <div align = center>
 
 ![visitor counter](https://visitor-badge.glitch.me/badge?page_id=Isyunke.readme)
-<br /><img src='https://i.postimg.cc/gwXfJW2B/t01349dcc95e8fa6c37.jpg' border='0' alt='t01349dcc95e8fa6c37' width = 100px/><br />
+<br /><img src='https://i.postimg.cc/gwXfJW2B/t01349dcc95e8fa6c37.jpg' border='0' alt='t01349dcc95e8fa6c37' width = 100px/><br>
 
 ![图片](https://github-readme-stats.vercel.app/api?username=Isyunke&count_private=true&show_icons=true&theme=dracula)
 </div>
