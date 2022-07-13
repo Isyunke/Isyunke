@@ -1,5 +1,5 @@
 
-<div align = center border-sizing = border_box width = 50%>
+<div align = left border-sizing = border_box width = 50%>
 
 ![visitor counter](https://visitor-badge.glitch.me/badge?page_id=Isyunke.readme)
 <br /><img src='https://i.postimg.cc/gwXfJW2B/t01349dcc95e8fa6c37.jpg' border='0' alt='t01349dcc95e8fa6c37' left = 0/><br>
